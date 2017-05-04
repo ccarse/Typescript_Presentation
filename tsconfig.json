@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strictNullChecks": true,
+    "outDir": "./out/",
+    "noImplicitAny": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "target": "es6"
+  },
+  "include": [
+    "./*"
+  ]
+}
